@@ -4,8 +4,8 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/poojanaa29/EXCEL-SALES-ANALYTICS/blob/00de87bcc88dffa3c9cc76abc7c71c5c6ef721d0/CUSTOMER_PERFORMANCE_REPORT.pdf_)
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/poojanaa29/EXCEL-SALES-ANALYTICS/blob/00de87bcc88dffa3c9cc76abc7c71c5c6ef721d0/INDIA_SALES.pdf_)
+    **1.** Create a _[customer performance report](https://github.com/poojanaa29/EXCEL-SALES-ANALYTICS/blob/00de87bcc88dffa3c9cc76abc7c71c5c6ef721d0/CUSTOMER_PERFORMANCE_REPORT.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/poojanaa29/EXCEL-SALES-ANALYTICS/blob/00de87bcc88dffa3c9cc76abc7c71c5c6ef721d0/INDIA_SALES.pdf)_
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -19,7 +19,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/poojanaa29/EXCEL-SALES-ANALYTICS/blob/00de87bcc88dffa3c9cc76abc7c71c5c6ef721d0/P%26L_REPORT.pdf_)
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/poojanaa29/EXCEL-SALES-ANALYTICS/blob/00de87bcc88dffa3c9cc76abc7c71c5c6ef721d0/P%26L_REPORT.pdf)_
 
 
 
